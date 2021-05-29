@@ -1,0 +1,14 @@
+MuhammadFaris, Doha, Economy, 1, 6, SILVER, 44, 2, online
+AhmadAdam, Tokyo, First, 2, 16, GOLD, 75, 5, online
+TanChinLam, London, Business, 2, 20, PLATINUM, 67, 3, online
+PeterLim, Chicago, Economy, 2, 6, PLATINUM, 55, 3, offline
+MariaHamid, Paris, First, 2, 18, GOLD, 65, 2, offline
+AlexanderAlex, Perth, Business, 3, 15, SILVER, 65, 3, online
+SitiFatimah, Bangkok, Economy, 2, 8, SILVER, 60, 4, online
+KumaranKumar, Manila, Economy, 1, 7, SILVER, 55, 2, online
+NajwaHalim, Seoul, First, 1, 12, GOLD, 75, 3, online
+SamuelSam, Doha, Business, 2, 20, PLATINUM,  75, 4, online
+FaridOsman, London, Economy, 2, 12, PLATINUM, 68, 3, offline
+NurulIman, Honolulu, Business, 3, 15, SILVER, 48, 3, online
+FarahAli, Cairo, Economy, 2, 6, SILVER, 50, 3, online
+HassanHussin, Jeddah, Economy, 2, 5, PLATINUM, 46, 2, offline
